@@ -1,4 +1,18 @@
 {
+<<<<<<< HEAD
+  name: "Brian",
+  name: "Jonathan",
+  name: "Brian",
+  name: "Yossi",
+  name: "Julia",
+  name: "Ryan",
+  name: "Ariany",
+  name: "Nikki",
+  name: "Cale",
+  name: "Moreno",
+  name: "Sean",
+  name: "Chikondi",
+=======
   name_1: "Brian",
   name_2: "Yossi",
   name_3: "Julia",
@@ -13,4 +27,5 @@
   name_12: "Delissa",
   name_13: "Brian"
 
+>>>>>>> 2442e24b46e1640c8db1d0a1ecdba5c53fb1637b
 }
