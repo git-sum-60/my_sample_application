@@ -11,5 +11,6 @@ Rails.application.routes.draw do
     get "/names" => "names#index"
 
     get "/fruits" => "fruits#index"
+    get "/pages" => "pages#index"
   end
 end
