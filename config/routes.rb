@@ -9,12 +9,9 @@ Rails.application.routes.draw do
 
   namespace :api do
     get "/names" => "names#index"
-<<<<<<< HEAD
-
+    get "/computers" => "computers#index"
     get "/branch" => "waszak#index"
-=======
     get "/pages" => "pages#index"
->>>>>>> c5aaf43b4a038f63cdf266b81d48c66c6d8d8660
   end
 
   namespace :api do
