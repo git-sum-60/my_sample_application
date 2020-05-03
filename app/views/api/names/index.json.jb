@@ -1,12 +1,11 @@
 {
-  name: "Brian",
-  name: "Julia",
-  name: "Ryan",
-  name: "Ariany",
-  name: "Nikki",
-  name: "Ariany",
-  name: "Cale",
-  name: "Moreno",
-  name: "Sean",
-  name: "Chikondi"
+  name_1: "Brian",
+  name_2: "Julia",
+  name_3: "Ryan",
+  name_4: "Ariany",
+  name_5: "Nikki",
+  name_6: "Cale",
+  name_7: "Moreno",
+  name_8: "Sean",
+  name_9: "Chikondi"
 }
