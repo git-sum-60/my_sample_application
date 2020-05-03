@@ -15,5 +15,11 @@ Rails.application.routes.draw do
     get "/branch" => "waszak#index"
 
     get "/pages" => "pages#index"
+
+    get "/mcdonald" => "mcdonald#index"
+    get "/computers" => "computers#index"
+    get "/branch" => "waszak#index"
+    get "/pages" => "pages#index"
+    get "/kamvazaanas" => "kamvazaana#index"
   end
 end
