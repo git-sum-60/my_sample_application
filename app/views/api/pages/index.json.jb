@@ -1,3 +1,7 @@
 {
   message: "this is a new page"
 }
+
+{
+  message: "I am in the pages controller"
+}
