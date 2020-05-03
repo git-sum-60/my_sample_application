@@ -1,4 +1,4 @@
 {
-  name: "Brian",
-  name: "Morenos",
+  name: ["Brian", "Moreno"],
+
 }
