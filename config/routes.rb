@@ -8,6 +8,8 @@ Rails.application.routes.draw do
   # end
 
   namespace :api do
+    get "/fruits" => "fruits#index"
+
     get "/names" => "names#index"
 
     get "/branch" => "waszak#index"
@@ -19,6 +21,7 @@ Rails.application.routes.draw do
     get "/dogs" => "dogs#index"
 
     get "/people" => "people#index"
+
     get "/mcdonald" => "mcdonald#index"
     get "/computers" => "computers#index"
     get "/branch" => "waszak#index"
