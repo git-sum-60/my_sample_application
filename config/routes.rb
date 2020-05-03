@@ -15,6 +15,10 @@ Rails.application.routes.draw do
     get "/branch" => "waszak#index"
 
     get "/pages" => "pages#index"
+  end
+
+  namespace :api do
+    get "/dogs" => "dogs#index"
 
     get "/people" => "people#index"
 
@@ -22,6 +26,7 @@ Rails.application.routes.draw do
     get "/anderson" => "anderson#index"
     get "/branch" => "waszak#index"
     get "/pages" => "pages#index"
+
     get "/kamvazaanas" => "kamvazaana#index"
   end
 end
