@@ -5,3 +5,4 @@
 {
   message: "I am in the pages controller"
 }
+{message: "I am in the pages controller"}
