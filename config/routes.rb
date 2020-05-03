@@ -8,9 +8,12 @@ Rails.application.routes.draw do
   # end
 
   namespace :api do
+    get "/fruits" => "fruits#index"
+
     get "/names" => "names#index"
 
-    get "/fruits" => "fruits#index"
+    get "/branch" => "waszak#index"
+
     get "/pages" => "pages#index"
   end
 end
