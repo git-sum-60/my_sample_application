@@ -16,6 +16,8 @@ Rails.application.routes.draw do
 
     get "/pages" => "pages#index"
 
+    get "/people" => "people#index"
+
     get "/mcdonald" => "mcdonald#index"
     get "/computers" => "computers#index"
     get "/branch" => "waszak#index"
