@@ -9,6 +9,7 @@ Rails.application.routes.draw do
 
   namespace :api do
     get "/names" => "names#index"
+    get "/people" => "people#index"
     get "/mcdonald" => "mcdonald#index"
     get "/anderson" => "anderson#index"
     get "/branch" => "waszak#index"
