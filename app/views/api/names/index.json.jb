@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   name: "Brian",
   name: "Jonathan",
   name: "Brian",
@@ -11,6 +12,8 @@
   name: "Moreno",
   name: "Sean",
   name: "Chikondi",
+=======
+>>>>>>> a5d4ff3f6c3d3b1f19726915147a2088c17209ca
   name_1: "Brian",
   name_2: "Yossi",
   name_3: "Julia",
@@ -27,8 +30,11 @@
   name_13: "Brian",
 =======
   name_13: "Brian"
+<<<<<<< HEAD
 
 >>>>>>> 2442e24b46e1640c8db1d0a1ecdba5c53fb1637b
 >>>>>>> aaaa7b23edb86d26a021f328a6a7130cc97b0a43
+=======
+>>>>>>> a5d4ff3f6c3d3b1f19726915147a2088c17209ca
 }
 
